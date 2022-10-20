@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olasunkanmi-SE
+- 👋 Hi, I’m Oyinlola Olasunkanmi
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on nodejs typescript open source projects
