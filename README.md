@@ -1,6 +1,6 @@
 - Hi, I’m Oyinlola Olasunkanmi
 - 👨‍💻 I’m a backend Engineer at Pickles Auctions
-- 👀 I’m interested in fullstack web development
+- 👀 I’m interested in fullstack development
 - 📫 How to reach me oyinolasunkanmi@gmail.com
 - 🕊️ Linkedin https://tinyurl.com/2xkr5yjn
 <!---
