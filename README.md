@@ -1,6 +1,6 @@
 - Hi, I’m Oyinlola Olasunkanmi
 - 👨‍💻 I’m a software engineer at Pickles Auctions
-- 👀 I’m interested in Web development with NodeJs. I work with Nestjs, React, Express, MongoDB, PostgresSQL, GraphQL, Rest
+- 👀 I’m interested in Web development with NodeJs. Tech Stack: Nestjs, React, Express, MongoDB, PostgresSQL, GraphQL, Rest
 - 📫 How to reach me oyinolasunkanmi@gmail.com
 - 🕊️ Linkedin https://tinyurl.com/2xkr5yjn
 <!---
