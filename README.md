@@ -1,4 +1,4 @@
-- Hi, I’m Oyinlola Olasunkanmi
+- Hi, I’m Ola
 - 👨‍💻 I’m a fullstack developer
 - 👀 I’m interested in Web development with NodeJs. Tech Stack: Nestjs, React, Express, MongoDB, PostgresSQL, GraphQL, Rest
 - 📫 How to reach me oyinolasunkanmi@gmail.com
