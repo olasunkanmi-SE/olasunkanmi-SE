@@ -1,6 +1,4 @@
 - Hi, I’m Ola
-- 👨‍💻 I’m a software engineer
-- 👀 I’m interested in Web development with NodeJs. Tech Stack: Nestjs, React, Express, MongoDB, PostgresSQL, GraphQL, Rest
 - 📫 How to reach me oyinolasunkanmi@gmail.com
 - 🕊️ Linkedin https://tinyurl.com/2xkr5yjn
 <!---
