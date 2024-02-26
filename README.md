@@ -3,11 +3,6 @@
 
 I'm Olasunkanmi Oyinlola, a Software Engineer with a passion for crafting robust web solutions, exploring the blockchain landscape, and delving into the fascinating realm of Large Language Models (LLMs).
 
-🚀 Professional Journey:
-
-Web Development Expertise: Proficient in developing scalable and user-friendly web applications. My work showcases a dedication to creating seamless online experiences across various domains.
-Blockchain Enthusiast: Deep dive into the world of blockchain, and exploring the potential of smart contracts.
-LLMs and Natural Language Processing: Fascinated by the power of Large Language Models, with hands-on experience in Natural Language Processing (NLP) applications and language generation.
 🛠️ Key Skills:
 
 Frontend Development: Typescript, JavaScript (React, Angular)
@@ -16,7 +11,7 @@ Backend Development: Node.js, Express, NestJs, microservices
 
 Blockchain Technologies: Solidity (Ethereum), Smart Contracts, Web3.js
 
-Machine Learning: Exploring LLMs (e.g., GPT-3), LangChain
+Machine Learning: Exploring LLMs (e.g., GPT-3), Gemini
 
 Database Management: MongoDB, MySQL, PostgreSQL, Pinecone
 
@@ -24,8 +19,8 @@ DevOps: Docker, Kubernetes, CI/CD pipelines
 
 🌐 Open Source Contributions:
 
-Actively contribute to open-source projects related to web development, blockchain, and machine learning.
-Advocate for collaboration and knowledge sharing within the developer community.
+I actively contribute to open-source projects related to web development, blockchain, and machine learning.
+
 🌱 Always Learning:
 
 Stay up-to-date with the latest trends and technologies in web development, blockchain, and AI.
