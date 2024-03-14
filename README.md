@@ -13,13 +13,13 @@ Blockchain Technologies: Solidity (Ethereum), Smart Contracts, Web3.js
 
 Machine Learning: Exploring LLMs (e.g., GPT-3), Gemini
 
-Database Management: MongoDB, MySQL, PostgreSQL, Pinecone
+Database Management: Relational databases, non-relational databases, vector databases
 
 DevOps: Docker, Kubernetes, CI/CD pipelines
 
 🌐 Open Source Contributions:
 
-I actively contribute to open-source projects related to web development, blockchain, and machine learning.
+I actively contribute to open-source web development, blockchain, and machine learning projects.
 
 🌱 Always Learning:
 
