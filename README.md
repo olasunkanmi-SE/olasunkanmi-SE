@@ -11,7 +11,7 @@ Backend Development: Node.js, Express, NestJs, microservices
 
 Blockchain Technologies: Solidity (Ethereum), Smart Contracts, Web3.js
 
-Machine Learning: Exploring LLMs (e.g., GPT-3), Gemini
+Machine Learning: Exploring LLMs, Generative AIs
 
 Database Management: Relational databases, non-relational databases, vector databases
 
