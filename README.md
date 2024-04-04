@@ -1,8 +1,7 @@
 
 👋 **Hello there!** 
 
-I'm Olasunkanmi Oyinlola, a Software Engineer with a passion for crafting robust web solutions, exploring the blockchain landscape, and delving into the fascinating realm of Large Language Models (LLMs).
-
+I'm a software engineer with a passion for crafting robust and innovative solutions. Currently, I am actively exploring the fields of machine learning and AI
 🛠️ Key Skills:
 
 Frontend Development: Typescript, JavaScript (React, Angular)
