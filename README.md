@@ -2,7 +2,9 @@
 
 I'm a software engineer with a passion for crafting robust and innovative solutions. Currently, I am actively exploring the fields of machine learning and generative AI:
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=olasunkanmi-SE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Olasunkanmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=olasunkanmi-SE&show_icons=true&theme=radical)
+
+![Olasunkanmi-SE's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olasunkanmi-SE&theme=vue-dark&hide_border=true)
 
 Frontend Development: Typescript, JavaScript (React, Angular)
 
