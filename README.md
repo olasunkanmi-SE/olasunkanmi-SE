@@ -1,14 +1,12 @@
+# Hi, I'm Oyinlola Olasunkanmi Raymond 👋
 
-👋 **Hello there!** 
+I'm a software engineer with a passion for crafting robust and innovative solutions. Currently, I am actively exploring the fields of machine learning and generative AI:
 
-I'm a software engineer with a passion for crafting robust and innovative solutions. Currently, I am actively exploring the fields of machine learning and AI
-🛠️ Key Skills:
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=olasunkanmi-SE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Frontend Development: Typescript, JavaScript (React, Angular)
 
-Backend Development: Node.js, Express, NestJs, microservices
-
-Blockchain Technologies: Solidity (Ethereum), Smart Contracts, Web3.js
+Backend Development: Node.js, python
 
 Machine Learning: Exploring LLMs, Generative AIs
 
@@ -18,18 +16,12 @@ DevOps: Docker, Kubernetes, CI/CD pipelines
 
 🌐 Open Source Contributions:
 
-I actively contribute to open-source web development, blockchain, and machine learning projects.
+I actively contribute to open-source development.
 
-🌱 Always Learning:
+I stay current with the latest web development, blockchain, and AI trends and technologies.
+I am passionate about continuous learning and skill enhancement.
 
-Stay up-to-date with the latest trends and technologies in web development, blockchain, and AI.
-Passionate about continuous learning and skill enhancement.
 🌍 Let's Connect:
-
-Interested in collaborative projects, discussions on web development, blockchain, and the limitless possibilities of LLMs.
-Let's connect and explore the exciting intersection of technology and innovation!
-
-**Contact**
 
 🕊️ Linkedin https://tinyurl.com/2xkr5yjn
 <!---
