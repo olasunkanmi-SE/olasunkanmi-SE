@@ -1,6 +1,6 @@
 # Hi, I'm Oyinlola Olasunkanmi Raymond 👋
 
-I'm a software engineer with a passion for crafting robust and innovative solutions. Currently, I am actively exploring the fields of machine learning and generative AI:
+I'm a software engineer with a passion for crafting robust and innovative solutions. Currently, I am actively exploring the fields of machine learning and generative AI, and distributed systems:
 
 
 
