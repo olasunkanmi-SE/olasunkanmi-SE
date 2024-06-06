@@ -26,7 +26,6 @@ I am passionate about continuous learning and skill enhancement.
 
 🕊️ Linkedin https://tinyurl.com/2xkr5yjn
 
-![Olasunkanmi-SE's GitHub stats](https://github-readme-stats.vercel.app/api?username=olasunkanmi-SE&show_icons=true&theme=radical)
 <!---
 olasunkanmi-SE/olasunkanmi-SE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
