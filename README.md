@@ -1,7 +1,6 @@
 # Hi, I'm Oyinlola Olasunkanmi Raymond 👋
 
-I'm a software engineer with a passion for crafting robust and innovative solutions. Currently, I am actively exploring the fields of machine learning and generative AI, and distributed systems:
-
+As a software engineer passionate about creating robust and innovative solutions, I am currently delving into blockchain, generative AI, and distributed systems. I am keenly interested in system design, particularly in enhancing system performance. I am also an advocate of continuous integration and development and a strong believer in "break things as you go".
 
 
 Frontend Development: Typescript, JavaScript (React, Angular)
