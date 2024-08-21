@@ -1,24 +1,17 @@
 # Hi, I'm Oyinlola Olasunkanmi Raymond 👋
 
-As a software engineer passionate about creating robust and innovative solutions, I am currently delving into blockchain, generative AI, and distributed systems. I am keenly interested in system design, particularly in enhancing system performance. I am also an advocate of continuous integration and development and a strong believer in "break things as you go".
+As a software engineer passionate about creating robust and innovative solutions, I am currently delving into blockchain, generative AI, and distributed systems. I am keenly interested in system design, particularly in enhancing system performance. I am also an advocate of continuous integration and development. I subscribe to the philosophy of "break things as you go", which emphasizes the importance of embracing calculated risk-taking and iterative learning in the pursuit of excellence
 
 
-Frontend Development: Typescript, JavaScript (React, Angular)
+Frontend Development: Typescript, JavaScript (React, Angular), Dapp.
 
-Backend Development: Node.js, python
+Backend Development: Node.js, Rust, smart contracts.
 
-Machine Learning: Exploring LLMs, Generative AIs
+Machine Learning: Exploring LLMs, Generative AIs.
 
-Database Management: Relational databases, non-relational databases, vector databases
+Database Management: Relational databases, non-relational databases, vector databases.
 
-DevOps: Docker, Kubernetes, CI/CD pipelines
-
-🌐 Open Source Contributions:
-
-I actively contribute to open-source development.
-
-I stay current with the latest web development, blockchain, and AI trends and technologies.
-I am passionate about continuous learning and skill enhancement.
+DevOps: Docker, Kubernetes, CI/CD pipelines.
 
 
 🌍 Let's Connect:
