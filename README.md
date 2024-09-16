@@ -9,9 +9,11 @@ I subscribe to the philosophy of "break things as you go", which emphasizes the 
 
 Frontend Development: Typescript, JavaScript (React, Angular), Dapp.
 
-Backend Development: Node.js, Rust, smart contracts.
+Backend Development: Node.js, Rust, Anchor.
 
 Machine Learning: Exploring LLMs, Generative AIs.
+
+Smart contract: Rust, Solana Blockchain, web3js
 
 Database Management: Relational databases, non-relational databases, vector databases.
 
