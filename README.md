@@ -7,13 +7,13 @@ I am keenly interested in system design, particularly in enhancing system perfor
 I subscribe to the philosophy of "break things as you go", which emphasizes the importance of embracing calculated risk-taking and iterative learning in the pursuit of excellence
 
 
-Frontend Development: Typescript, JavaScript (React, Angular), Dapp.
+Frontend Development: Typescript, JavaScript (React, Angular)
 
-Backend Development: Node.js, Rust, Anchor.
+Backend Development: Node.js, Rust, Solidity
 
 Machine Learning: Exploring LLMs, Generative AIs.
 
-Smart contract: Rust, Solana Blockchain, web3js
+Smart contract: Rust, Solana Blockchain, web3js, etherjs
 
 Database Management: Relational databases, non-relational databases, vector databases.
 
