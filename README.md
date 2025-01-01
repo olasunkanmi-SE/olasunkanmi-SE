@@ -4,9 +4,6 @@ As a software engineer, I am driven by a passion for designing and developing ro
 
 I am keenly interested in system design, particularly in enhancing system performance. I am also an advocate of continuous integration and development. 
 
-I subscribe to the philosophy of "break things as you go", which emphasizes the importance of embracing calculated risk-taking and iterative learning in the pursuit of excellence
-
-
 Frontend Development: React
 
 Backend Development: Node.js, Rust
