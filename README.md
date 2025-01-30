@@ -2,8 +2,6 @@
 
 As a software engineer, I am driven by a passion for designing and developing robust, innovative solutions that push the boundaries of what we know. My current areas of focus include blockchain, generative AI, and distributed systems.
 
-I am keenly interested in system design, particularly in enhancing system performance. I am also an advocate of continuous integration and development. 
-
 Frontend Development: React
 
 Backend Development: Node.js, Rust
