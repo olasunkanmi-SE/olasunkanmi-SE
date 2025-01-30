@@ -2,13 +2,13 @@
 
 As a software engineer, I am driven by a passion for designing and developing robust, innovative solutions that push the boundaries of what we know. My current areas of focus include blockchain, generative AI, and distributed systems.
 
-Frontend Development: React
-
 Backend Development: Node.js, Rust
 
 Machine Learning: Exploring LLMs, Generative AIs.
 
 Smart contract: Rust, Solana Blockchain, web3js
+
+Frontend Development: React
 
 
 🕊️ Linkedin https://tinyurl.com/2xkr5yjn
