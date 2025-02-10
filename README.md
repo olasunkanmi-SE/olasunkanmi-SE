@@ -1,6 +1,6 @@
 # Hi, I'm Oyinlola Olasunkanmi Raymond 👋
 
-As a software engineer, I am driven by a passion for designing and developing robust, innovative solutions that push the boundaries of what we know. My current areas of focus include blockchain, generative AI, and distributed systems.
+As a software engineer, I am driven by a passion for designing and developing robust, innovative solutions that push the boundaries of what we know. My current areas of focus include web, blockchain, generative AI, and distributed systems.
 
 Backend Development: Node.js, Typescript, Rust
 
