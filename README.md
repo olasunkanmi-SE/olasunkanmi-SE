@@ -1,4 +1,4 @@
-# Hi, I'm Oyinlola Olasunkanmi Raymond 👋
+# Hi, I'm Oyinlola Olasunkanmi Raymond
 
 As a software engineer, I am driven by a passion for designing and developing robust, innovative solutions that push the boundaries of what we know. My current areas of focus include web, blockchain, generative AI, and distributed systems.
 
