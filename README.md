@@ -12,7 +12,6 @@ Frontend Development: React
 
 
 🕊️ Linkedin https://tinyurl.com/2xkr5yjn
-- Website: https://www.olasunkanmi.app/
 
 <!---
 olasunkanmi-SE/olasunkanmi-SE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
