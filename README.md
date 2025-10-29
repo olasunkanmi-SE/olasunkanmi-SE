@@ -6,8 +6,6 @@ Backend Development: Node.js, Typescript, Rust, GraphQL, PostgreSql, MongoDB
 
 Machine Learning: Exploring LLMs, Generative AIs.
 
-Smart contract: Rust, Solana Blockchain, web3js
-
 Frontend Development: React
 
 
