@@ -4,7 +4,7 @@ As a software engineer, I am driven by a passion for designing and developing ro
 
 Backend Development: Node.js, Typescript, Rust, GraphQL, PostgreSql, MongoDB
 
-Machine Learning: Exploring LLMs, Generative AIs.
+Machine Learning: Exploring LLMs, Generative AI, Agentic AI, Coding Assistant development.
 
 Frontend Development: React
 
