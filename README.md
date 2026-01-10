@@ -1,12 +1,12 @@
 # Hi, I'm Oyinlola Olasunkanmi Raymond
 
-I am a Lead Engineer at Carsome Capital Financing, where I'm building financial applications for Carsome dealers and buyers.
+I am a Lead Engineer at Carsome Capital Financing, where I'm building financial applications for Carsome dealers and buyers across Southeast Asia.
 
 Creator of Codebuddy an open-source multi-agent AI coding assistant that automates complex dev workflows with PR intelligence, persistent memory, and multi-LLM support (Gemini, Claude, Groq, etc.)
 
 My mission is to help every developer simplify their workflow and deliver highly maintainable code.
 
-Before joining Carsome in 2025, I was a Technical Lead at Regov Technologies, leading strategic collaborations and application development for Financial institutions.
+Before joining Carsome in 2025, I was a Technical Lead at Regov Technologies, lead strategic collaborations and application development for Financial institutions.
 
 ## Technologies
 
