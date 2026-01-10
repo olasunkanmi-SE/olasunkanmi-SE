@@ -2,9 +2,17 @@
 
 I am a Lead Engineer at Carsome Capital Financing, where I'm building financial applications for Carsome dealers and buyers.
 
-Backend Development: Node.js, Typescript, Rust, GraphQL, PostgreSql, MongoDB
+I am the Creator of Codebuddy an open-source multi-agent AI coding assistant that automates complex dev workflows with PR intelligence, persistent memory, and multi-LLM support (Gemini, Claude, Groq, etc.)
 
-Machine Learning: Exploring LLMs, Generative AI, Agentic AI, Coding Assistant development.
+My mission is to help every developer simplify their workflow and deliver highly maintainable code.
+
+Before joining Carsome in 2025, I was a Technical Lead at Regov Technologies, leading strategic collaborations and application development for Financial institutions.
+
+## Technologies
+
+Backend Development: Node.js, Typescript, GraphQL, PostgreSql, MongoDB, AWS, GCP
+
+AI: LangGraph, LangChain, Deep Agent
 
 Frontend Development: React
 
