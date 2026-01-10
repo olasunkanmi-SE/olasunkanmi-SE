@@ -17,8 +17,8 @@ AI: LangGraph, LangChain, Deep Agent
 Frontend Development: React
 
 
-🕊️ Linkedin https://tinyurl.com/2xkr5yjn
-
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tinyurl.com/2xkr5yjn)
 <!---
 olasunkanmi-SE/olasunkanmi-SE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
