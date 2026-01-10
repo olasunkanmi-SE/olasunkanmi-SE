@@ -4,9 +4,9 @@ I am a Lead Engineer at Carsome Capital Financing, where I'm building financial 
 
 Creator of Codebuddy an open-source multi-agent AI coding assistant that automates complex dev workflows with PR intelligence, persistent memory, and multi-LLM support (Gemini, Claude, Groq, etc.)
 
-My mission is to help every developer simplify their workflow and deliver highly maintainable code.
+Created Codebuddy to help every developer simplify their workflow and deliver highly maintainable code, and also empower busy technical leads to automate code reviews.
 
-Before joining Carsome in 2025, I was a Technical Lead at Regov Technologies, lead strategic collaborations and application development for Financial institutions.
+Before joining Carsome in 2025, I was a Technical Lead at Regov Technologies, leading strategic collaborations and application development for Financial institutions.
 
 ## Technologies
 
