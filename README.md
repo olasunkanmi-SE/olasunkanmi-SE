@@ -1,6 +1,6 @@
 # Hi, I'm Oyinlola Olasunkanmi Raymond
 
-As a software engineer, I am driven by a passion for designing and developing robust, innovative solutions that push the boundaries of what we know. My current areas of focus include web, blockchain, generative AI, and distributed systems.
+I am a Lead Engineer at Carsome Capital Financing, where I'm building financial applications for Carsome dealers and buyers.
 
 Backend Development: Node.js, Typescript, Rust, GraphQL, PostgreSql, MongoDB
 
