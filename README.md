@@ -4,8 +4,6 @@ Creator of Codebuddy an open-source multi-agent AI coding assistant that automat
 
 Created Codebuddy as an avenue to understand this novel technology, specifically artificial intelligence and its applications in software development.
 
-Prior to joining Carsome in 2025, I held the position of Technical Lead at Regov Technologies, leading strategic collaborations and application development for Financial institutions.
-
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tinyurl.com/2xkr5yjn)
