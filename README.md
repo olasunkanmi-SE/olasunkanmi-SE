@@ -2,17 +2,9 @@
 
 Creator of Codebuddy an open-source multi-agent AI coding assistant that automates complex dev workflows with PR intelligence, persistent memory, and multi-LLM support
 
-Created Codebuddy to help every developer simplify their workflow and deliver highly maintainable code, and also empower busy technical leads to automate code reviews.
+Created Codebuddy as an avenue to understand this novel technology, specifically artificial intelligence and its applications in software development.
 
-Before joining Carsome in 2025, I was a Technical Lead at Regov Technologies, leading strategic collaborations and application development for Financial institutions.
-
-## Technologies
-
-Backend Development: Node.js, Typescript, GraphQL, PostgreSql, MongoDB, AWS, GCP
-
-AI: LangGraph, LangChain, Deep Agent
-
-Frontend Development: React
+Prior to joining Carsome in 2025, I held the position of Technical Lead at Regov Technologies, leading strategic collaborations and application development for Financial institutions.
 
 
 ### Let's Connect
